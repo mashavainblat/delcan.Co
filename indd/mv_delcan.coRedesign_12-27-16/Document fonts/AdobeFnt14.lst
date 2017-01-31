@@ -1,0 +1,421 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamHTF-Bold
+FamilyName:Gotham HTF
+StyleName:Bold
+MenuName:Gotham HTF
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Gotham HTF Bold
+WritingScript:Roman
+OutlineFileName:\GothaHTFBol
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:54191
+FileModTime:1379003690
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamHTF-Book
+FamilyName:Gotham HTF
+StyleName:Book
+MenuName:Gotham HTF
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gotham HTF Book
+WritingScript:Roman
+OutlineFileName:\GothaHTFBoo
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:54020
+FileModTime:1379003690
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamHTF-Medium
+FamilyName:Gotham HTF
+StyleName:Medium
+MenuName:Gotham HTF
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Gotham HTF Medium
+WritingScript:Roman
+OutlineFileName:\GothaHTFMed
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:54482
+FileModTime:1379003690
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-LightCondensed
+OutlineFileName:\Gotham HTF
+ResourceID:5191
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Black
+OutlineFileName:\Gotham HTF
+ResourceID:5192
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BlackItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5192
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-MediumCondensed
+OutlineFileName:\Gotham HTF
+ResourceID:5193
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BoldCondensed
+OutlineFileName:\Gotham HTF
+ResourceID:5193
+MacStyle:1
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Light
+OutlineFileName:\Gotham HTF
+ResourceID:5194
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-LightItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5194
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Book
+OutlineFileName:\Gotham HTF
+ResourceID:5195
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BookItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5195
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-XLight
+OutlineFileName:\Gotham HTF
+ResourceID:5196
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-XLightItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5196
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BookCondensed
+OutlineFileName:\Gotham HTF
+ResourceID:5197
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Ultra
+OutlineFileName:\Gotham HTF
+ResourceID:5198
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-UltraItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5198
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Thin
+OutlineFileName:\Gotham HTF
+ResourceID:5199
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-ThinItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5199
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Medium
+OutlineFileName:\Gotham HTF
+ResourceID:5200
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Bold
+OutlineFileName:\Gotham HTF
+ResourceID:5200
+MacStyle:1
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-MediumItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5200
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BoldItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5200
+MacStyle:3
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BlackItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5201
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BoldCondensed
+OutlineFileName:\Gotham HTF
+ResourceID:5202
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-LightItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5203
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BookItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5204
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-XLightItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5205
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-UltraItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5206
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-ThinItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5207
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-Bold
+OutlineFileName:\Gotham HTF
+ResourceID:5208
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BoldItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5208
+MacStyle:2
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-MediumItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5209
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BoldItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5209
+MacStyle:1
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:GothamHTF-BoldItalic
+OutlineFileName:\Gotham HTF
+ResourceID:5210
+MacStyle:0
+FileLength:299458
+FileModTime:1379003690
+%EndFont
+
